@@ -1,0 +1,4 @@
+/app
+/mgw-connectlife-dc
+# local credentials and test output of scripts/try-connectlife.sh, never commit
+/.local/
