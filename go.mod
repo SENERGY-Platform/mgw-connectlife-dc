@@ -5,7 +5,7 @@ go 1.26
 require (
 	github.com/SENERGY-Platform/go-service-base/config-hdl v1.2.0
 	github.com/SENERGY-Platform/go-service-base/struct-logger v0.4.1
-	github.com/SENERGY-Platform/mgw-dc-lib-go v0.0.0-20221129060713-55138534c03c
+	github.com/SENERGY-Platform/mgw-dc-lib-go v0.0.0-20261125122218-9e3dcd9db61c
 	github.com/SENERGY-Platform/models/go v0.0.0-20260911075423-f01521c01da2
 )
 

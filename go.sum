@@ -4,8 +4,8 @@ github.com/SENERGY-Platform/go-service-base/config-hdl v1.2.0 h1:OST21YZ0/Or10Ey
 github.com/SENERGY-Platform/go-service-base/config-hdl v1.2.0/go.mod h1:+YKSlnOc5NNeZuVA5HE8hmrKCRQwb5FlMvgmpMw2FWk=
 github.com/SENERGY-Platform/go-service-base/struct-logger v0.4.1 h1:FF4jhIpxYbXkBQRm4oV/1KiTq1U7a5EQ0x5jqGhZDoY=
 github.com/SENERGY-Platform/go-service-base/struct-logger v0.4.1/go.mod h1:WuvuHGXhnLtXn2ry2kfTaQwco3EY3XTCefLeNqUT+jg=
-github.com/SENERGY-Platform/mgw-dc-lib-go v0.0.0-20221129060713-55138534c03c h1:U/fD9tAhN7iaimJJhqDtz8N5S+H/SG7jc8Q6xRDr4zM=
-github.com/SENERGY-Platform/mgw-dc-lib-go v0.0.0-20221129060713-55138534c03c/go.mod h1:/ZPYwFPPfCO/l6N/7vkXzBh1Fg42oAZ0DxYXW8Q5xFE=
+github.com/SENERGY-Platform/mgw-dc-lib-go v0.0.0-20261125122218-9e3dcd9db61c h1:CGw3y4W/5RqTXDby+CC/DDR56pLhXdKlYsibpkOw8Rw=
+github.com/SENERGY-Platform/mgw-dc-lib-go v0.0.0-20261125122218-9e3dcd9db61c/go.mod h1:/ZPYwFPPfCO/l6N/7vkXzBh1Fg42oAZ0DxYXW8Q5xFE=
 github.com/SENERGY-Platform/models/go v0.0.0-20260911075423-f01521c01da2 h1:CEjLdTG7mJf1LIp222hnmhWxA1K7e4ygjgKfgSQHr8Y=
 github.com/SENERGY-Platform/models/go v0.0.0-20260911075423-f01521c01da2/go.mod h1:5B2cSnYKuAmeco4mJPhY5eVO+oMqXLmnl9wxh1G7e9E=
 github.com/eclipse/paho.mqtt.golang v1.4.2 h1:66wOzfUHSSI1zamx7jR6yMEI5EuHnT1G6rNA5PM12m4=
